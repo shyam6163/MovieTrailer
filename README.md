@@ -1,4 +1,4 @@
-# Project 1: Movie Trailer Website
+# Project 1: Udacity Movie Trailer Website
 ### by Chinta Shyam Prasad
 
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
